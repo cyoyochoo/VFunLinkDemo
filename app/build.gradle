@@ -25,5 +25,5 @@ repositories {
 }
 
 dependencies {
-    compile(name: 'vfun_link_v2.0', ext: 'aar')
+    compile(name: 'vfun_link_v2.1', ext: 'aar')
 }
